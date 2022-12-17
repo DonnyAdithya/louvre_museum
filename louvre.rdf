@@ -5,10 +5,12 @@
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dc="http://purl.org/dc/terms/">
+
 <foaf:PersonalProfileDocument rdf:about="http://localhost/tubesws/louvre.rdf">
 <foaf:maker rdf:resource="http://localhost/tubesws/"/>
 <foaf:primaryTopic rdf:resource="http://localhost/tubesws/"/>
 </foaf:PersonalProfileDocument>
+  
   <foaf:Museum rdf:about="http://localhost/tubesws/">
     <foaf:title>Museum Louvre</foaf:title>
     <foaf:carousel1>The Louvre is the world’s most famous and largest fine arts museum. It’s home to the one of the most impressive art collections in history. It’s also the most visited museum of the world with a stonking 10 million visitors a year – but it wasn’t always this way.</foaf:carousel1>
@@ -39,13 +41,3 @@
     </owl:sameAs>
   </foaf:Museum>
 </rdf:RDF>
-
-<!-- <?xml version="1.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:foaf="http://purl.org/foaf/elements/1.1/">
-  <rdf:Description rdf:about="http://localhost/maps/">
-    <foaf:title>Museum Louvre</foaf:title> 
-    <foaf:latitude>48.861006</foaf:latitude> 
-    <foaf:longitude>2.335861</foaf:longitude> 
-  </rdf:Description>
-</rdf:RDF> -->
