@@ -188,6 +188,7 @@ h6,
 
     .header-carousel .owl-carousel-item p {
         font-size: 16px !important;
+        text-align: justify;
     }
 }
 
@@ -232,7 +233,7 @@ h6,
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/carousel-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/carousel.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -327,7 +328,7 @@ h6,
 }
 
 .service-item:hover .service-text {
-    background: rgba(0, 0, 0, .7);
+    background: #FFFFFF(0, 0, 0, .7);
 }
 
 .service-item * {
@@ -335,7 +336,7 @@ h6,
 }
 
 .service-item:hover * {
-    color: #FFFFFF;
+    color: #000000;
 }
 
 .service-item .btn {

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/">
+<foaf:PersonalProfileDocument rdf:about="http://localhost/tubesws/louvre.rdf">
+<foaf:maker rdf:resource="http://localhost/tubesws/"/>
+<foaf:primaryTopic rdf:resource="http://localhost/tubesws/"/>
+</foaf:PersonalProfileDocument>
+  <foaf:Museum rdf:about="http://localhost/tubesws/">
+    <foaf:title>Museum Louvre</foaf:title>
+    <foaf:carousel1>The Louvre is the world’s most famous and largest fine arts museum. It’s home to the one of the most impressive art collections in history. It’s also the most visited museum of the world with a stonking 10 million visitors a year – but it wasn’t always this way.</foaf:carousel1>
+    <foaf:carousel2>The Louvre was originally built as a fortress in the late 12th century. By the 14th century it had become more of a residence for the French royal family. In the 16th century, Francis I, known as the French Renaissance King, had major works carried out to turn it into a Renaissance palace.</foaf:carousel2>
+    <foaf:carousel3>The world’s most visited fine arts museum was once a fortress.  The history of the Louvre Museum is fascinating. So enormous is the Louvre, that it would take three months to view every piece of art contained in it. And that’s if you spent just 30 seconds looking at each artwork all day, every day without a break.</foaf:carousel3>
+    <foaf:mapsInfo1>No one wants to be in Paris and get no opportunity to visit the Louvre, or the Louvre Museum, located in the very central part of the capital city of France. The Louvre is undoubtedly one of the most famous art museums in the world, the place where the pearls of the world's art like the Venus de Milo and Mona Lisa are on display. The landmark enjoys one of the best and the most advantageous locations, in one of the most popular and most touristy cities of Europe. Thus Musée du Louvre is known as one of the most visited tourist attractions on the whole continent. The actual location of the museum is so called 1st Arrondissement of Paris, and the building of the Louvre is situated on the right bank of the Seine River.
+    </foaf:mapsInfo1>
+    <foaf:mapsInfo2>The beautiful building where the museum is located is called the Louvre Castle, or the Louvre Palace, and it is one of the most easily recognizable buildings in Paris. It is very easy to reach the Louvre by bus, by the Paris Metro, or by walking from the downtown area of the city. Right near the museum, there is a bridge, Pont des Arts, which connects the northern bank with the southern one and all the tourist attractions there. Right near the Louvre, it is possible to see such landmarks as a beautiful Catholic church Saint-Germain-l'Auxerrois, another museum dedicated to the Louvre, Les Caves du Louvre, the Louvre Pyramid, as well as the famous arch of Paris, Carrousel Arc de Triomphe, which can be found right opposite the building of the museum.</foaf:mapsInfo2>
+    <foaf:title>Museum Louvre</foaf:title> 
+    <foaf:country>France</foaf:country> 
+    <foaf:year>229</foaf:year>
+    <foaf:latitude>48.860294</foaf:latitude> 
+    <foaf:longitude>2.338629</foaf:longitude> 
+    <foaf:dms_lat>48° 51' 37.058'' N</foaf:dms_lat> 
+    <foaf:dms_long>	2° 20' 19.0644'' E</foaf:dms_long> 
+    <foaf:utm_easting>451,490.65</foaf:utm_easting> 
+    <foaf:utm_northing>5,412,136.37</foaf:utm_northing> 
+    <foaf:category>Museums</foaf:category>
+    <foaf:country_code>FR</foaf:country_code> 
+    <foaf:zoom_level>15</foaf:zoom_level> 
+    <owl:sameAs>
+      <foaf:Person rdf:about="http://dbpedia.org/resource/Louvre">
+        <foaf:homepage rdf:resource="http://dbpedia.org/resource/Louvre"/>
+        <foaf:director rdf:resource="http://dbpedia.org/resource/Laurence_des_Cars"/>
+        <foaf:type_art rdf:resource="http://dbpedia.org/resource/Art_museum"/>
+        <foaf:type_historic rdf:resource="http://dbpedia.org/resource/Historic_site"/>
+      </foaf:Person>
+    </owl:sameAs>
+  </foaf:Museum>
+</rdf:RDF>
+
+<!-- <?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://purl.org/foaf/elements/1.1/">
+  <rdf:Description rdf:about="http://localhost/maps/">
+    <foaf:title>Museum Louvre</foaf:title> 
+    <foaf:latitude>48.861006</foaf:latitude> 
+    <foaf:longitude>2.335861</foaf:longitude> 
+  </rdf:Description>
+</rdf:RDF> -->
